@@ -41,10 +41,10 @@ nav:
 plugins:
   - search
 
-exclude_docs:
-  - .github/
-  - requirements.txt
-  - mkdocs.yml
-  - .gitignore
-  - "*.sh"
+exclude_docs: |
+  .github/
+  requirements.txt
+  mkdocs.yml
+  .gitignore
+  *.sh
 
